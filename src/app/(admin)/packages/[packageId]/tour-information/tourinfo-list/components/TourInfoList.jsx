@@ -47,7 +47,7 @@ const TourInfoList = async () => {
 
   return (
     <Card>
-      <CardHeader className="d-flex justify-content-between align-items-center gap-1">
+      <CardHeader className="d-flex flex-wrap justify-content-between align-items-center gap-1">
         <CardTitle as={'h4'} className="flex-grow-1">
           Tour Information List
         </CardTitle>

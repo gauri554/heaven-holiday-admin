@@ -34,7 +34,7 @@ const ItinerariesListPage = async () => {
       <option value="kashmirParadise">Kashmir Paradise Tour</option>
     </ChoicesFormInput>
   </div></Col>
-           <CardHeader className="d-flex justify-content-between align-items-center gap-1">
+           <CardHeader className="d-flex flex-wrap justify-content-between align-items-center gap-1">
                  <CardTitle as={'h4'} className="flex-grow-1">
                    All Itinerary List
                  </CardTitle>
