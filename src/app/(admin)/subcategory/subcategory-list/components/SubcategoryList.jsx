@@ -10,7 +10,7 @@ const subcategoryList = async () => {
     <Row>
       <Col xl={12}>
         <Card>
-          <CardHeader className="d-flex justify-content-between align-items-center gap-1">
+          <CardHeader className="d-flex flex-wrap justify-content-between align-items-center gap-1">
             <CardTitle as={'h4'} className="flex-grow-1">
               All Subcategories List
             </CardTitle>

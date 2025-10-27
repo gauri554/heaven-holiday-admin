@@ -15,7 +15,7 @@ const DepartureListPage = async () => {
         <Col xl={12}>
           <Card>
             {/* Card Header */}
-            <div className="d-flex card-header justify-content-between align-items-center">
+            <div className="d-flex flex-wrap card-header justify-content-between align-items-center">
               <div>
                 <CardTitle as={'h4'} className="card-title">
                   All Departure Dates List
