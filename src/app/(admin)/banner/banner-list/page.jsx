@@ -22,7 +22,7 @@ const BannerListPage = async () => {
                   All Banners List
                 </CardTitle>
               </div>
-              <div className="d-flex align-items-center gap-2">
+              <div className="d-flex flex-wrap align-items-center gap-2">
                 <input type="text" className="form-control w-auto" placeholder="Search banners..." />
                 <Link href="/banner/banner-add" className="btn btn-primary btn-sm">
                   <IconifyIcon icon="solar:add-circle-bold" className="align-middle me-1" />+ Add New
