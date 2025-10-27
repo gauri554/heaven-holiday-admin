@@ -118,7 +118,7 @@ const PopularTours = () => {
                 className="btn bg-body rounded-pill d-flex justify-content-center align-items-center"
                 htmlFor="womens"
               >
-                Women's Special (6)
+                Womens Special (6)
               </label>
 
                  <input type="checkbox" className="btn-check" id="senior" />
@@ -126,7 +126,7 @@ const PopularTours = () => {
                 className="btn bg-body rounded-pill d-flex justify-content-center align-items-center"
                 htmlFor="senior"
               >
-               Senior's Special
+               Seniors Special
               </label>
 
                  <input type="checkbox" className="btn-check" id="roadtrips" />

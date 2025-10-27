@@ -217,7 +217,7 @@ Corporate Tour
       className="btn btn-outline-primary rounded px-2 py-1"
       htmlFor="womens-tour"
     >
-     Women's Special Tour
+     Womens Special Tour
     </label>
 
      <input
@@ -230,7 +230,7 @@ Corporate Tour
       className="btn btn-outline-primary rounded px-2 py-1"
       htmlFor="senior-tour"
     >
-     Senior's Special Tour
+     Seniors Special Tour
     </label>
 
      <input

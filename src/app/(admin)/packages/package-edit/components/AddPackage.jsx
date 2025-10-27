@@ -37,8 +37,8 @@ const AddPackage = () => {
                   <option value="Group">Group Tpur</option>
                   <option value="Corporate">Corporate Tour</option>
                   <option value="Inbound">Inbound Tour</option>
-                <option value="Womens">Women's Special</option>
-                <option value="Seniors">Senior's Special</option>
+                <option value="Womens">Womens Special</option>
+                <option value="Seniors">Seniors Special</option>
                 <option value="Roadtrips">Road Trips</option>
                 <option value="yolooutdoors">YOLO Outdoors</option>
                 </select>

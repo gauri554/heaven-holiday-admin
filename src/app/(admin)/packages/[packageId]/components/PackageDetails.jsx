@@ -317,7 +317,7 @@ Group Tour
       className="btn btn-outline-primary rounded px-2 py-1"
       htmlFor="womens-tour"
     >
-    Women's Special
+    Womens Special
     </label>
 
      <input
@@ -330,7 +330,7 @@ Group Tour
       className="btn btn-outline-primary rounded px-2 py-1"
       htmlFor="senior-tour"
     >
-     Seniors' Special
+     Seniors Special
     </label>
 
      <input
@@ -434,7 +434,7 @@ Group Tour
                      </Row>
             <h4 className="text-dark fw-medium">Description :</h4>
             <p className="text-muted">
-             This tour includes the services of Veena World's Tour Manager.
+             This tour includes the services of Veena Worlds Tour Manager.
 
 With 150+ sales offices, 1,000+ dedicated team members, and 350+ expert tour managers, Veena World ensures every detail of your journey is seamlessly planned.{' '}
               <Link href="/packages/1/tour-information/tourinfo-list" className="link-primary">

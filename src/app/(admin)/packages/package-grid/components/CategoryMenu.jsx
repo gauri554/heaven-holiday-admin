@@ -81,13 +81,13 @@ Corporate Tour
               <div className="form-check">
               <input type="checkbox" className="form-check-input" id="shoes-categories" />
               <label className="form-check-label" htmlFor="shoes-categories">
-             Women's Special
+             Womens Special
               </label>
             </div>
               <div className="form-check">
               <input type="checkbox" className="form-check-input" id="shoes-categories" />
               <label className="form-check-label" htmlFor="shoes-categories">
-            Seniors' Special
+            Seniors Special
               </label>
             </div>
               <div className="form-check">

@@ -30,7 +30,7 @@ const ItinerariesListPage = async () => {
       data-placeholder="Choose a tour"
     >
       <option value="">-- Select a Tour --</option>
-      <option value="womensRajasthan">Women's Special Rajasthan - Pune</option>
+      <option value="womensRajasthan">Womens Special Rajasthan - Pune</option>
       <option value="goaDelight">Goa Delight Tour</option>
       <option value="kashmirParadise">Kashmir Paradise Tour</option>
     </ChoicesFormInput>
